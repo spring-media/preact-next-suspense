@@ -1,0 +1,12 @@
+{
+  "name": "next-with-preact-x",
+  "version": "1.0.0",
+  "main": "lib/plugin.js",
+  "files": [
+    "lib/alias.js"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "module-alias": "2.2.0"
+  }
+}

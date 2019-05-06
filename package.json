@@ -1,0 +1,12 @@
+{
+  "name": "preact-next-suspense",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:spring-media/preact-next-suspense.git",
+  "author": "Lukas Bombach <lukas.bombach@googlemail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}

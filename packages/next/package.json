@@ -1,0 +1,17 @@
+{
+  "name": "packages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "next": "8.1.0",
+    "next-with-preact-x": "1.0.0",
+    "preact": "10.0.0-beta.1",
+    "preact-render-to-string": "4.1.0"
+  }
+}
