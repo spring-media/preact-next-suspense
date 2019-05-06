@@ -2,7 +2,7 @@
 
 As of version 8.x Next does not work together with Preact anymore because it utilizes Suspense.
 
-@sventschui is currently working on a PR to implement Suspense for Preact.
+[@sventschui](https://github.com/sventschui) is currently [working on a PR](https://github.com/developit/preact/pull/1593) to implement Suspense for Preact.
 
 This project is a monorepo with 3 packages
 
