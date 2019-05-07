@@ -27,3 +27,7 @@ Unfortunately this does not quite work yet, we end up having a page that says
 ```html
 <!DOCTYPE html><undefined></undefined>
 ```
+
+# 🔥 UPDATE 🔥
+
+[@sventschui](https://github.com/sventschui) found that the problem is / was the usage of `preact-render-to-string@4.x`. Upgrading to `5.x` / `@next` fixed this bug.
