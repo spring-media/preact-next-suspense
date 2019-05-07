@@ -8013,10 +8013,10 @@ postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.5:
     source-map "^0.6.1"
     supports-color "^6.1.0"
 
-preact-render-to-string@4.1.0:
-  version "4.1.0"
-  resolved "https://registry.npmjs.org/preact-render-to-string/-/preact-render-to-string-4.1.0.tgz#70d98a8385cb86558366c558aad7311ebecb881d"
-  integrity sha512-FlFBJRxo8z4cp6VsDmeYjIEx4ZK2clFJnKIvIj8K1IQCRm7ZgJ/SZ1+BotT86/Nc+V1pNtFabHoUi6gpjx5Pug==
+preact-render-to-string@5.0.2:
+  version "5.0.2"
+  resolved "https://registry.npmjs.org/preact-render-to-string/-/preact-render-to-string-5.0.2.tgz#f5220ac276f6b14737d735dddbe45947dc801241"
+  integrity sha512-2RFtynyc8O+JA1Rlt7cPAnBKpQCr2M3R9BUXcHFsG0o6+BUTf3HRtbiV/XdEBaFapOEk+OlCnfvDw1L00G/Lmw==
   dependencies:
     pretty-format "^3.8.0"
 
